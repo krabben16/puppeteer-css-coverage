@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-css-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "node index.js",
+    "report": "nyc report --reporter=html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nyc": "^15.1.0",
+    "puppeteer": "^5.2.1",
+    "puppeteer-to-istanbul": "^1.4.0"
+  }
+}
