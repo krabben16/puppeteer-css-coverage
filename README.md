@@ -9,7 +9,7 @@
 
 ## Trouble shooting
 
-[Chrome headless doesn't launch on Windows](https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#chrome-headless-doesnt-launch-on-windows)
+[Chrome headless doesn't launch on Windows](https://github.com/puppeteer/puppeteer/blob/v5.2.1/docs/troubleshooting.md#chrome-headless-doesnt-launch-on-windows)
 
 ## Links
 
